@@ -1,8 +1,7 @@
 //Java Program to demonstrate the example of for loop  
 //which prints table of 1  
 
-public class 
-ForExample
+public class ForLoop
  {  
 public static void main(String[] args) 
 {  
